@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7b5efdd-d1b8-4c73-9d95-94c06fc3d0db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mission 3/Charte Graphique du site du.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Mission 3/Charte Graphique du site du.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mission 3/~$an du site.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mission 3/~$arte Graphique du site du.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Formulaire_connexion.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmap/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/cmap/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/theme.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +75,7 @@
       <workItem from="1581583511223" duration="7747000" />
       <workItem from="1583019975961" duration="3507000" />
       <workItem from="1583023615365" duration="5632000" />
-      <workItem from="1583077212420" duration="2070000" />
+      <workItem from="1583077212420" duration="2407000" />
     </task>
     <task id="LOCAL-00001" summary="afqjegb">
       <created>1581584364705</created>
@@ -244,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583029856926</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="afqjegb">
+      <created>1583079514062</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1583079514062</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,10 +261,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="233" y="5" key="#Notifications/0.0.1280.689@0.0.1280.689" timestamp="1583029507545" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1583029855362">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1583079510878">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1583029855362" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1583079510878" />
     <state x="421" y="101" key="FileChooserDialogImpl" timestamp="1581584107145">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -300,10 +301,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="617" height="165" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1583078157401" />
-    <state x="233" y="79" key="Vcs.Push.Dialog.v2" timestamp="1583029874092">
+    <state x="233" y="79" key="Vcs.Push.Dialog.v2" timestamp="1583079541056">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="233" y="79" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1583029874092" />
+    <state x="233" y="79" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1583079541056" />
     <state x="450" y="263" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583029866732">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
