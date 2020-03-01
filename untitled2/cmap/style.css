@@ -1,9 +1,10 @@
 #canvasMap{
      
-      position: absolute;
-        width : 320px;
+      position: center;
+        width : 250px;
         height : 320px;
 		z-index: 50;
+		padding-top : 12px;
 }
 
 #legende {
