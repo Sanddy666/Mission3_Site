@@ -16,5 +16,21 @@ namespace Module_CLIRE
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+            
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        private void folderBrowserDialog1_HelpRequest(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
